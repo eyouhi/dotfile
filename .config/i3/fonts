@@ -1,0 +1,264 @@
+extra/adobe-source-code-pro-fonts 2.030ro+1.050it-5 [installed]
+    Monospaced font family for user interface and coding environments
+extra/adobe-source-sans-pro-fonts 3.006-1
+    Sans serif font family for user interface environments
+extra/adobe-source-serif-pro-fonts 3.000-1
+    Serif typeface for setting text. Designed to complement Source Sans Pro
+extra/bdf-unifont 12.1.03-1
+    GNU Unifont Glyphs
+extra/cantarell-fonts 1:0.111-1 [installed]
+    Humanist sans serif font
+extra/fluidsynth 2.0.6-1 (pro-audio)
+    A real-time software synthesizer based on the SoundFont 2 specifications
+extra/font-bh-ttf 1.0.3-4
+    X.org Luxi Truetype fonts
+extra/font-bitstream-speedo 1.0.2-4
+    Bitstream Speedo fonts
+extra/fontconfig 2:2.13.1+12+g5f5ec56-1 [installed]
+    A library for configuring and customizing font access
+extra/fontforge 20190801-1
+    Outline and bitmap font editor
+extra/freetype2 2.10.1-1 [installed]
+    Font rasterization library
+extra/ftgl 2.4.0-1
+    OpenGL library to use arbitrary fonts
+extra/gnome-font-viewer 3.32.0-1 (gnome)
+    A font viewer utility for GNOME
+extra/gnu-free-fonts 20120503-7 [installed]
+    A free family of scalable outline fonts
+extra/gsfonts 20180524-2
+    (URW)++ Core Font Set [Level 2]
+extra/gwaterfall 0.1-2
+    View all characters of a font in all sizes
+extra/libfontenc 1.1.4-1 [installed]
+    X11 font encoding library
+extra/libotf 0.9.16-1
+    OpenType Font library
+extra/libxfont2 2.0.4-1 [installed]
+    X11 font rasterisation library
+extra/libxft 2.3.3-1 [installed]
+    FreeType-based font drawing library for X
+extra/noto-fonts 20190111-2
+    Google Noto TTF fonts
+extra/noto-fonts-cjk 20190409-1
+    Google Noto CJK fonts
+extra/noto-fonts-emoji 20180810-2
+    Google Noto emoji fonts
+extra/noto-fonts-extra 20190111-2
+    Google Noto TTF fonts - additional variants
+extra/pangox-compat 0.0.2+2+gedb9e09-3
+    X Window System font support for Pango
+extra/sdl2_ttf 2.0.15-1
+    A library that allows you to use TrueType fonts in your SDL applications (Version 2)
+extra/sdl_ttf 2.0.11-5
+    A library that allows you to use TrueType fonts in your SDL applications
+extra/t1lib 5.1.2-7
+    Library for generating character- and string-glyphs from Adobe Type 1 fonts
+extra/tex-gyre-fonts 2.501-1
+    Substitute PostScript fonts in OpenType format
+extra/texlive-fontsextra 2019.50876-1 (texlive-most)
+    TeX Live - all sorts of extra fonts
+extra/texlive-langchinese 2019.50850-1 (texlive-lang)
+    TeX Live - Fonts and macro packages to typeset Chinese texts
+extra/texlive-langcyrillic 2019.50683-1 (texlive-lang)
+    TeX Live - Fonts and macro packages to typeset Cyrillic texts
+extra/texlive-langgreek 2019.46662-1 (texlive-lang)
+    TeX Live - Fonts and support for typesetting Greek
+extra/texlive-langjapanese 2019.50873-1 (texlive-lang)
+    TeX Live - Fonts and macro packages to typeset Japanese texts
+extra/texlive-langkorean 2019.49455-1 (texlive-lang)
+    TeX Live - Fonts and macro packages to typeset Korean texts
+extra/texmacs 1.99.11-1
+    Free scientific text editor, inspired by TeX and GNU Emacs. WYSIWYG editor TeX-fonts and CAS-interface (Giac, GTybalt, Macaulay 2, Maxima, Octave, Pari, Qcl, R and Yacas) in one.
+extra/ttf-bitstream-vera 1.10-12
+    Bitstream Vera fonts.
+extra/ttf-caladea 20130214-2
+    Google's Caladea font
+extra/ttf-carlito 20130920-4
+    Google's Carlito font
+extra/ttf-croscore 20190111-2
+    Chrome OS core fonts
+extra/ttf-dejavu 2.37-2
+    Font family based on the Bitstream Vera Fonts with a wider range of characters
+extra/ttf-junicode 1.002-1
+    Junius-Unicode: Font for medievalists
+extra/ttf-linux-libertine 5.3.0-4
+    Serif (Libertine) and Sans Serif (Biolinum) OpenType fonts with large Unicode coverage
+extra/woff2 1.0.2-1
+    Web Open Font Format 2 reference implementation
+extra/xorg-bdftopcf 1.1-1 (xorg xorg-apps) [installed]
+    Convert X font from Bitmap Distribution Format to Portable Compiled Format
+extra/xorg-font-util 1.3.2-1 (xorg-fonts xorg) [installed]
+    X.Org font utilities
+extra/xorg-font-utils 7.6-5 [installed]
+    Transitional package depending on xorg font utilities
+extra/xorg-fonts-100dpi 1.0.3-4 (xorg) [installed]
+    X.org 100dpi fonts
+extra/xorg-fonts-75dpi 1.0.3-4 (xorg) [installed]
+    X.org 75dpi fonts
+extra/xorg-fonts-alias 1.0.3-2 [installed]
+    X.org font alias files
+extra/xorg-fonts-cyrillic 1.0.3-3
+    X.org cyrillic fonts
+extra/xorg-fonts-encodings 1.0.5-1 (xorg-fonts xorg) [installed]
+    X.org font encoding files
+extra/xorg-fonts-misc 1.0.3-6
+    X.org misc fonts
+extra/xorg-fonts-type1 7.7-3
+    X.org Type1 fonts
+extra/xorg-mkfontscale 1.2.1-1 (xorg-apps xorg) [installed]
+    Create an index of scalable font files for X
+extra/xorg-xfd 1.1.3-1
+    Displays all the characters in a font using either the X11 core protocol or libXft2
+extra/xorg-xfontsel 1.0.6-1
+    Point and click selection of X11 font names
+extra/xorg-xlsfonts 1.0.6-1
+    List available X fonts
+extra/xorgproto 2019.1-1 [installed]
+    combined X.Org X11 Protocol headers
+community/adobe-source-han-sans-cn-fonts 2.001-1 [installed]
+    Adobe Source Han Sans Subset OTF - Simplified Chinese OpenType/CFF fonts
+community/adobe-source-han-sans-hk-fonts 2.001-1
+    Adobe Source Han Sans Subset OTF - Traditional Chinese (Hong Kong) OpenType/CFF fonts
+community/adobe-source-han-sans-jp-fonts 2.001-1 [installed]
+    Adobe Source Han Sans Subset OTF - Japanese OpenType/CFF fonts
+community/adobe-source-han-sans-kr-fonts 2.001-1
+    Adobe Source Han Sans Subset OTF - Korean OpenType/CFF fonts
+community/adobe-source-han-sans-otc-fonts 2.001-1
+    Adobe Source Han Sans - Pan-CJK OpenType/CFF Collection fonts
+community/adobe-source-han-sans-tw-fonts 2.001-1 [installed]
+    Adobe Source Han Sans Subset OTF - Traditional Chinese (Taiwan) OpenType/CFF fonts
+community/adobe-source-han-serif-cn-fonts 1.001-2
+    Adobe Source Han Serif Subset OTF - Simplified Chinese OpenType/CFF fonts
+community/adobe-source-han-serif-jp-fonts 1.001-2
+    Adobe Source Han Serif Subset OTF - Japanese OpenType/CFF fonts
+community/adobe-source-han-serif-kr-fonts 1.001-2
+    Adobe Source Han Serif Subset OTF - Korean OpenType/CFF fonts
+community/adobe-source-han-serif-otc-fonts 1.001-2
+    Adobe Source Han Serif - Pan-CJK OpenType/CFF Collection fonts
+community/adobe-source-han-serif-tw-fonts 1.001-2
+    Adobe Source Han Serif Subset OTF - Traditional Chinese OpenType/CFF fonts
+community/awesome-terminal-fonts 1.1.0-2
+    fonts/icons for powerlines
+community/dina-font 2.92-7
+    A monospace bitmap font, primarily aimed at programmers
+community/fluajho 1.3-1 (pro-audio)
+    A simple sf2 soundfont host/player
+community/font-mathematica 9.0-6
+    Mathematica fonts by Wolfram Research, Inc.
+community/fonteditfs 1.2-6
+    console font editor
+community/freepats-general-midi 20190813-1 (soundfonts)
+    General MIDI sound sets
+community/golang-github-golang-freetype 0.0.20170609-1
+    The Freetype font rasterizer in the Go programming language
+community/gtk2fontsel 0.1-6
+    Font selection and preview tool
+community/mate-utils 1.22.1-2 (mate-extra)
+    Common MATE utilities for viewing disk usage, logs and fonts, taking screenshots, managing dictionaries and searching files
+community/mftrace 1.2.19-1
+    Traces TeX bitmap fonts into PFA, PFB, or TTF
+community/modest 0.0.6.d021b90-1
+    Fast HTML renderer implemented as a pure C99 library with no outside dependencies
+community/opendesktop-fonts 1.4.2-5
+    Chinese TrueType Fonts
+community/otf-cormorant 3.601-1
+    Open-source display font family
+community/otf-fantasque-sans-mono 1.7.2-2
+    OTF font family with a great monospaced variant for programmers
+community/otf-fira-code 2-1
+    Monospaced font with programming ligatures
+community/otf-font-awesome 5.10.2-1
+    Iconic font designed for Bootstrap
+community/otf-ipaexfont 004.01-1 (ipa-fonts)
+    Japanese outline fonts following the tradition of Japanese printing font
+community/otf-ipafont 003.03-7 (ipa-fonts)
+    Japanese outline fonts by Information-technology Promotion Agency, Japan (IPA)
+community/otf-ipamjfont 006.01-1 (ipa-fonts)
+    Japanese outline Mincho fonts implementing IVS compliant with Hanyo-Denshi collection (based on IPAex Mincho fonts)
+community/otf-latin-modern 2.004-3
+    Improved version of Computer Modern fonts as used in LaTeX
+community/otf-latinmodern-math 1.959-3
+    Improved version of Computer Modern fonts as used in LaTeX – OpenType Math component
+community/otf-overpass 3.0.3-1
+    An open source font family inspired by Highway Gothic esp. suited for signs, lettering and web sites
+community/perl-font-afm 1.20-8
+    Parse Adobe Font Metric files
+community/perl-font-ttf 1.06-3
+    Font::TTF - Perl module for TrueType font hacking
+community/polyphone 2.0.1-5 (pro-audio)
+    A soundfont editor for quickly designing musical instruments
+community/powerline-fonts 2.7-3
+    patched fonts for powerline
+community/python-fonttools 4.0.0-1
+    A library to manipulate font files from Python
+community/python-qtawesome 0.5.7-1
+    Iconic fonts in PyQt and PySide applications
+community/python2-qtawesome 0.5.7-1
+    Iconic fonts in PyQt and PySide applications
+community/soundfont-fluid 3.1-2
+    FluidR3 soundfont
+community/t1utils 1.41-2
+    A collection of simple Type 1 font manipulation programs
+community/tamsyn-font 1.11-3
+    A monospaced bitmap font for the console and X11
+community/terminus-font 4.48-1
+    Monospace bitmap font (for X11 and console)
+community/terminus-font-otb 4.48-1
+    Monospace bitmap font (OTB version)
+community/timidity++ 2.15.0-2 (pro-audio)
+    A MIDI to WAVE converter and player
+community/ttf-anonymous-pro 1.003-4
+    A family of four fixed-width fonts designed especially with coding in mind
+community/ttf-arphic-ukai 0.2.20080216.1-7
+    CJK Unicode font Kaiti style
+community/ttf-arphic-uming 0.2.20080216.1-7
+    CJK Unicode font Ming style
+community/ttf-baekmuk 2.2-11
+    Korean fonts
+community/ttf-cormorant 3.601-1
+    Open-source display font family
+community/ttf-droid 20121017-7
+    General-purpose fonts released by Google as part of Android
+community/ttf-fantasque-sans-mono 1.7.2-2
+    TTF font family with a great monospaced variant for programmers
+community/ttf-fira-code 2-1
+    Monospaced font with programming ligatures
+community/ttf-font-awesome 5.10.2-1
+    Iconic font designed for Bootstrap
+community/ttf-hanazono 20170904-3
+    A free Japanese kanji font, which contains about 78,685 characters (and 2 SPACEs) defined in ISO/IEC 10646 standard / the Unicode standard.
+community/ttf-hannom 2005-5
+    Chinese and Vietnamese TrueType fonts
+community/ttf-inconsolata 1:2.0.0.1-3
+    Monospace font for pretty code listings and for the terminal
+community/ttf-indic-otf 0.2-9
+    Indic Opentype Fonts collection
+community/ttf-ionicons 4.6.3-1
+    Font from the Ionic mobile framework
+community/ttf-joypixels 5.0.2-2
+    Emoji as a Service (formerly EmojiOne)
+community/ttf-khmer 5.0-6
+    Fonts for Khmer and Latin alphabets
+community/ttf-liberation 2.00.5-2
+    Red Hats Liberation fonts
+community/ttf-linux-libertine-g 20120116-5
+    Graphite port of Linux Libertine and Linux Biolinum fonts
+community/ttf-proggy-clean 1.1.5-1
+    Monospaced fonts for programming
+community/ttf-roboto 2.138-1
+    Google's signature family of fonts
+community/ttf-sazanami 20040629-10
+    Japanese fonts
+community/ttf-tibetan-machine 1.901-9
+    Open-type unicode font for Tibetan
+community/ttf-ubuntu-font-family 0.83-5
+    Ubuntu font family
+community/wqy-bitmapfont 1.0.0RC1-3
+    A bitmapped Song Ti (serif) Chinese font
+community/wqy-microhei 0.2.0_beta-9
+    A Sans-Serif style high quality CJK outline font
+community/wqy-microhei-lite 0.2.0_beta-9
+    The "Light" face of WenQuanYi Micro Hei font family
+community/wqy-zenhei 0.9.45-7
+    A Hei Ti Style (sans-serif) Chinese Outline Font.

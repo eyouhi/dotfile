@@ -1,0 +1,12 @@
+# GIMP gimp-pencil-tool options
+
+(paint-mode dissolve)
+(brush "2. Hardness 025")
+(dynamics "Dynamics Off")
+(gradient "前景到背景（RGB）")
+(palette "颜色历史")
+(brush-size 38)
+(brush-spacing 0.050000000000000003)
+(brush-hardness 0.248)
+
+# end of gimp-pencil-tool options

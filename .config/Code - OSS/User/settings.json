@@ -1,0 +1,7 @@
+{
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.fontFamily": "'Source Code Pro',",
+    "editor.fontSize": 17
+}

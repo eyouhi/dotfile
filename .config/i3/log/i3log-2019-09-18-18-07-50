@@ -1,0 +1,1947 @@
+09/18/19 18:07:51 - i3 4.17.1 (2019-08-30) starting
+09/18/19 18:07:51 - Parsing configfile /home/liwis/.config/i3/config
+09/18/19 18:07:51 - deciding for version 4 due to this line: bindsym $mod+Left focus left
+09/18/19 18:07:51 - [libi3] ../i3-4.17.1/../i3-4.17.1/libi3/font.c Using Pango font ttf-liberation-mono, size 14
+09/18/19 18:07:51 - Used number 1 for workspace with name 1:  
+09/18/19 18:07:51 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+09/18/19 18:07:51 - focused now = 0x56231f173590 / 1:  
+09/18/19 18:07:51 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+09/18/19 18:07:51 - workspace visible? fs = 0x56231f16c270, ws = 0x56231f16c270
+09/18/19 18:07:51 - Used number 2 for workspace with name 2:  
+09/18/19 18:07:51 - workspace visible? fs = 0x56231f174270, ws = 0x56231f174270
+09/18/19 18:07:51 - focused now = 0x56231f174270 / 2:  
+09/18/19 18:07:51 - workspace visible? fs = 0x56231f174270, ws = 0x56231f174270
+09/18/19 18:07:51 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+09/18/19 18:07:51 - workspace visible? fs = 0x56231f16c270, ws = 0x56231f16c270
+09/18/19 18:07:51 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+09/18/19 18:07:51 - focused now = 0x56231f173590 / 1:  
+09/18/19 18:07:51 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+09/18/19 18:07:51 - workspace visible? fs = 0x56231f174270, ws = 0x56231f174270
+09/18/19 18:07:51 - workspace visible? fs = 0x56231f16c270, ws = 0x56231f16c270
+09/18/19 18:07:51 - This is not an in-place restart, copying root window contents to a pixmap
+09/18/19 18:07:51 - auto-starting (always!) $HOME/.config/polybar/launch.sh
+09/18/19 18:07:51 - executing: $HOME/.config/polybar/launch.sh
+09/18/19 18:07:51 - auto-starting (always!) feh --bg-center ~/pics/
+09/18/19 18:07:51 - startup id = i3/feh/578-0-mypc_TIME0
+09/18/19 18:07:51 - executing: feh --bg-center ~/pics/
+09/18/19 18:07:51 - auto-starting (always!) xautolock -time 3 -locker "i3lock-fancy"
+09/18/19 18:07:51 - startup id = i3/xautolock/578-1-mypc_TIME0
+09/18/19 18:07:51 - executing: xautolock -time 3 -locker "i3lock-fancy"
+09/18/19 18:07:51 - Not a managed window, ignoring UnmapNotify event
+09/18/19 18:07:51 - Not a managed window, ignoring UnmapNotify event
+/bin/sh: xautolock: command not found
+Bars launched...
+polybar|error: module/mpd: Connection refused
+polybar|warn:  internal/volume is deprecated, use internal/alsa instead
+polybar|error: Disabling module "eth" (reason: Invalid network interface "eno1")
+polybar|warn:  module/temperature: The token `%temperature%` is deprecated, use `%temperature-c%` instead.
+polybar|error: module/mpd: Connection refused
+09/18/19 18:07:51 - workspace visible? fs = 0x56231f174270, ws = 0x56231f174270
+09/18/19 18:07:51 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+09/18/19 18:07:51 - WM_CLASS changed to polybar (instance), Polybar (class)
+09/18/19 18:07:51 - WM_NAME changed to "polybar-example_eDP-1"
+09/18/19 18:07:51 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+09/18/19 18:07:51 - This window is of type dock
+09/18/19 18:07:51 - Checking window 0x00e00002 (class Polybar)
+09/18/19 18:07:51 - dock status matches
+09/18/19 18:07:51 - Checking window 0x00e00002 (class Polybar)
+09/18/19 18:07:51 - Regular expression "^.*" matches "Polybar"
+09/18/19 18:07:51 - window class matches (Polybar)
+09/18/19 18:07:51 - dock status does not match
+09/18/19 18:07:51 - Checking window 0x00e00002 (class Polybar)
+09/18/19 18:07:51 - Checking window 0x00e00002 (class Polybar)
+09/18/19 18:07:51 - Checking window 0x00e00002 (class Polybar)
+09/18/19 18:07:51 - Regular expression "netease-cloud-music" does not match "Polybar"
+09/18/19 18:07:51 - Checking window 0x00e00002 (class Polybar)
+09/18/19 18:07:51 - Regular expression "VirtualBox Manager" does not match "Polybar"
+09/18/19 18:07:51 - Checking window 0x00e00002 (class Polybar)
+09/18/19 18:07:51 - Regular expression "wechat" does not match "Polybar"
+09/18/19 18:07:51 - Checking window 0x00e00002 (class Polybar)
+09/18/19 18:07:51 - Regular expression "vokoscreen" does not match "Polybar"
+09/18/19 18:07:51 - Checking window 0x00e00002 (class Polybar)
+09/18/19 18:07:51 - Regular expression "vlc" does not match "Polybar"
+09/18/19 18:07:51 - workspace visible? fs = 0x56231f174270, ws = 0x56231f174270
+09/18/19 18:07:51 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+09/18/19 18:07:51 - workspace visible? fs = 0x56231f16c270, ws = 0x56231f16c270
+polybar|error: tray: Failed to put tray above 0x0e00002 in the stack (XCB_MATCH (8))
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+09/18/19 18:07:52 - ClientMessage for window 0x000001c6
+polybar|error: Invalid _XEMBED_INFO for window 0x0800016
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+09/18/19 18:07:53 - startup id = i3/i3-sensible-terminal/578-2-mypc_TIME45234
+09/18/19 18:07:53 - executing: i3-sensible-terminal
+09/18/19 18:07:53 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+09/18/19 18:07:53 - WM_CLASS changed to urxvt (instance), URxvt (class)
+09/18/19 18:07:53 - WM_NAME changed to "Rxvt"
+09/18/19 18:07:53 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+09/18/19 18:07:53 - _NET_WM_NAME changed to "Rxvt"
+09/18/19 18:07:53 - WM_HINTS.input changed to "1"
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - dock status does not match
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - dock status does not match
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - dock status does not match
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - dock status does not match
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - Regular expression "netease-cloud-music" does not match "URxvt"
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - Regular expression "wechat" does not match "URxvt"
+09/18/19 18:07:53 - workspace visible? fs = 0x56231f174270, ws = 0x56231f174270
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - Regular expression "^.*" matches "URxvt"
+09/18/19 18:07:53 - window class matches (URxvt)
+09/18/19 18:07:53 - dock status matches
+09/18/19 18:07:53 - Checking window 0x00e00002 (class Polybar)
+09/18/19 18:07:53 - window id does not match
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - match made by window id (12582922)
+09/18/19 18:07:53 - dock status matches
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - Regular expression "netease-cloud-music" does not match "URxvt"
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - Regular expression "VirtualBox Manager" does not match "URxvt"
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - Regular expression "wechat" does not match "URxvt"
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - Regular expression "vokoscreen" does not match "URxvt"
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - Regular expression "vlc" does not match "URxvt"
+09/18/19 18:07:53 - workspace visible? fs = 0x56231f174270, ws = 0x56231f174270
+09/18/19 18:07:53 - workspace visible? fs = 0x56231f174270, ws = 0x56231f174270
+09/18/19 18:07:53 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+09/18/19 18:07:53 - workspace visible? fs = 0x56231f16c270, ws = 0x56231f16c270
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:07:53 - _NET_WM_NAME changed to "liwis@mypc:~"
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - Regular expression "^.*" matches "URxvt"
+09/18/19 18:07:53 - window class matches (URxvt)
+09/18/19 18:07:53 - dock status matches
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - Regular expression "netease-cloud-music" does not match "URxvt"
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - Regular expression "VirtualBox Manager" does not match "URxvt"
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - Regular expression "wechat" does not match "URxvt"
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - Regular expression "vokoscreen" does not match "URxvt"
+09/18/19 18:07:53 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:07:53 - Regular expression "vlc" does not match "URxvt"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:07:55 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+09/18/19 18:07:55 - workspace visible? fs = 0x56231f174270, ws = 0x56231f174270
+09/18/19 18:07:55 - focused now = 0x56231f159c00 / (null)
+09/18/19 18:07:55 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+09/18/19 18:07:55 - workspace visible? fs = 0x56231f174270, ws = 0x56231f174270
+09/18/19 18:07:55 - workspace visible? fs = 0x56231f16c270, ws = 0x56231f16c270
+09/18/19 18:07:55 - workspace visible? fs = 0x56231f174270, ws = 0x56231f174270
+09/18/19 18:07:55 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+09/18/19 18:08:40 - Sending WM_DELETE to the client
+09/18/19 18:08:40 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+09/18/19 18:08:40 - Not a managed window, ignoring UnmapNotify event
+09/18/19 18:08:40 - expose event for unknown window, ignoring
+09/18/19 18:08:40 - Not a managed window, ignoring UnmapNotify event
+09/18/19 18:08:40 - Not a managed window, ignoring UnmapNotify event
+09/18/19 18:08:40 - Not a managed window, ignoring UnmapNotify event
+09/18/19 18:08:40 - Not a managed window, ignoring UnmapNotify event
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+09/18/19 18:08:43 - startup id = i3/i3-sensible-terminal/578-3-mypc_TIME94883
+09/18/19 18:08:43 - executing: i3-sensible-terminal
+09/18/19 18:08:43 - Not a managed window, ignoring UnmapNotify event
+09/18/19 18:08:43 - WM_CLASS changed to urxvt (instance), URxvt (class)
+09/18/19 18:08:43 - WM_NAME changed to "Rxvt"
+09/18/19 18:08:43 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+09/18/19 18:08:43 - _NET_WM_NAME changed to "Rxvt"
+09/18/19 18:08:43 - WM_HINTS.input changed to "1"
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - dock status does not match
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - dock status does not match
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - dock status does not match
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - dock status does not match
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - Regular expression "netease-cloud-music" does not match "URxvt"
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - Regular expression "wechat" does not match "URxvt"
+09/18/19 18:08:43 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - Regular expression "^.*" matches "URxvt"
+09/18/19 18:08:43 - window class matches (URxvt)
+09/18/19 18:08:43 - dock status matches
+09/18/19 18:08:43 - Checking window 0x00e00002 (class Polybar)
+09/18/19 18:08:43 - window id does not match
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - match made by window id (12582922)
+09/18/19 18:08:43 - dock status matches
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - Regular expression "netease-cloud-music" does not match "URxvt"
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - Regular expression "VirtualBox Manager" does not match "URxvt"
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - Regular expression "wechat" does not match "URxvt"
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - Regular expression "vokoscreen" does not match "URxvt"
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - Regular expression "vlc" does not match "URxvt"
+09/18/19 18:08:43 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+09/18/19 18:08:43 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+09/18/19 18:08:43 - workspace visible? fs = 0x56231f174270, ws = 0x56231f174270
+09/18/19 18:08:43 - workspace visible? fs = 0x56231f16c270, ws = 0x56231f16c270
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:08:43 - _NET_WM_NAME changed to "liwis@mypc:~"
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - Regular expression "^.*" matches "URxvt"
+09/18/19 18:08:43 - window class matches (URxvt)
+09/18/19 18:08:43 - dock status matches
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - Regular expression "netease-cloud-music" does not match "URxvt"
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - Regular expression "VirtualBox Manager" does not match "URxvt"
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - Regular expression "wechat" does not match "URxvt"
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - Regular expression "vokoscreen" does not match "URxvt"
+09/18/19 18:08:43 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:43 - Regular expression "vlc" does not match "URxvt"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+09/18/19 18:08:46 - _NET_WM_NAME changed to "Rxvt"
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "^.*" matches "URxvt"
+09/18/19 18:08:46 - window class matches (URxvt)
+09/18/19 18:08:46 - dock status matches
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "netease-cloud-music" does not match "URxvt"
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "VirtualBox Manager" does not match "URxvt"
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "wechat" does not match "URxvt"
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "vokoscreen" does not match "URxvt"
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "vlc" does not match "URxvt"
+09/18/19 18:08:46 - WM_HINTS.input changed to "1"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:08:46 - _NET_WM_NAME changed to "liwis@mypc:~"
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "^.*" matches "URxvt"
+09/18/19 18:08:46 - window class matches (URxvt)
+09/18/19 18:08:46 - dock status matches
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "netease-cloud-music" does not match "URxvt"
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "VirtualBox Manager" does not match "URxvt"
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "wechat" does not match "URxvt"
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "vokoscreen" does not match "URxvt"
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "vlc" does not match "URxvt"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:08:46 - _NET_WM_NAME changed to "Rxvt"
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "^.*" matches "URxvt"
+09/18/19 18:08:46 - window class matches (URxvt)
+09/18/19 18:08:46 - dock status matches
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "netease-cloud-music" does not match "URxvt"
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "VirtualBox Manager" does not match "URxvt"
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "wechat" does not match "URxvt"
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "vokoscreen" does not match "URxvt"
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "vlc" does not match "URxvt"
+09/18/19 18:08:46 - WM_HINTS.input changed to "1"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:08:46 - _NET_WM_NAME changed to "liwis@mypc:~"
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "^.*" matches "URxvt"
+09/18/19 18:08:46 - window class matches (URxvt)
+09/18/19 18:08:46 - dock status matches
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "netease-cloud-music" does not match "URxvt"
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "VirtualBox Manager" does not match "URxvt"
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "wechat" does not match "URxvt"
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "vokoscreen" does not match "URxvt"
+09/18/19 18:08:46 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:46 - Regular expression "vlc" does not match "URxvt"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:08:47 - _NET_WM_NAME changed to "Rxvt"
+09/18/19 18:08:47 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:47 - Regular expression "^.*" matches "URxvt"
+09/18/19 18:08:47 - window class matches (URxvt)
+09/18/19 18:08:47 - dock status matches
+09/18/19 18:08:47 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:47 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:47 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:47 - Regular expression "netease-cloud-music" does not match "URxvt"
+09/18/19 18:08:47 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:47 - Regular expression "VirtualBox Manager" does not match "URxvt"
+09/18/19 18:08:47 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:47 - Regular expression "wechat" does not match "URxvt"
+09/18/19 18:08:47 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:47 - Regular expression "vokoscreen" does not match "URxvt"
+09/18/19 18:08:47 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:47 - Regular expression "vlc" does not match "URxvt"
+09/18/19 18:08:47 - WM_HINTS.input changed to "1"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:08:47 - _NET_WM_NAME changed to "liwis@mypc:~"
+09/18/19 18:08:47 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:47 - Regular expression "^.*" matches "URxvt"
+09/18/19 18:08:47 - window class matches (URxvt)
+09/18/19 18:08:47 - dock status matches
+09/18/19 18:08:47 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:47 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:47 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:47 - Regular expression "netease-cloud-music" does not match "URxvt"
+09/18/19 18:08:47 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:47 - Regular expression "VirtualBox Manager" does not match "URxvt"
+09/18/19 18:08:47 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:47 - Regular expression "wechat" does not match "URxvt"
+09/18/19 18:08:47 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:47 - Regular expression "vokoscreen" does not match "URxvt"
+09/18/19 18:08:47 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:08:47 - Regular expression "vlc" does not match "URxvt"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+09/18/19 18:08:48 - WM_HINTS.input changed to "1"
+09/18/19 18:08:49 - WM_HINTS.input changed to "1"
+polybar|error: module/mpd: Connection refused
+09/18/19 18:08:51 - Not a managed window, ignoring UnmapNotify event
+09/18/19 18:08:51 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+09/18/19 18:09:02 - startup id = i3/i3lock-fancy/578-4-mypc_TIME114132
+09/18/19 18:09:02 - executing: i3lock-fancy
+09/18/19 18:09:02 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+09/18/19 18:09:04 - startup id = i3/i3lock-fancy/578-5-mypc_TIME115687
+09/18/19 18:09:04 - executing: i3lock-fancy
+09/18/19 18:09:04 - Not a managed window, ignoring UnmapNotify event
+09/18/19 18:09:04 - startup id = i3/i3lock-fancy/578-6-mypc_TIME116036
+09/18/19 18:09:04 - executing: i3lock-fancy
+09/18/19 18:09:04 - Not a managed window, ignoring UnmapNotify event
+09/18/19 18:09:04 - startup id = i3/i3lock-fancy/578-7-mypc_TIME116241
+09/18/19 18:09:04 - executing: i3lock-fancy
+09/18/19 18:09:04 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+i3lock: Cannot grab pointer/keyboard
+i3lock: Cannot grab pointer/keyboard
+i3lock: Cannot grab pointer/keyboard
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:09:22 - ClientMessage for window 0x00c0000a
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+09/18/19 18:09:26 - startup id = i3/i3lock-fancy/578-8-mypc_TIME137496
+09/18/19 18:09:26 - executing: i3lock-fancy
+09/18/19 18:09:26 - Not a managed window, ignoring UnmapNotify event
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:09:34 - ClientMessage for window 0x00c0000a
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:09:43 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:09:49 - startup id = i3/rofi/578-9-mypc_TIME160915
+09/18/19 18:09:49 - executing: rofi -show run
+09/18/19 18:09:49 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:10:02 - Not a managed window, ignoring UnmapNotify event
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+09/18/19 18:10:04 - Not a managed window, ignoring UnmapNotify event
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:10:04 - Not a managed window, ignoring UnmapNotify event
+09/18/19 18:10:04 - Not a managed window, ignoring UnmapNotify event
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+09/18/19 18:10:14 - startup id = i3/rofi/578-10-mypc_TIME185739
+09/18/19 18:10:14 - executing: rofi -show run
+09/18/19 18:10:14 - Not a managed window, ignoring UnmapNotify event
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+[954:954:0918/181016.791898:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+09/18/19 18:10:16 - WM_CLASS changed to chromium (instance), Chromium (class)
+09/18/19 18:10:16 - WM_NAME changed to "Untitled - Chromium"
+09/18/19 18:10:16 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+09/18/19 18:10:16 - _NET_WM_NAME changed to "Untitled - Chromium"
+09/18/19 18:10:16 - WM_WINDOW_ROLE changed to "browser"
+09/18/19 18:10:16 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:16 - dock status does not match
+09/18/19 18:10:16 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:16 - dock status does not match
+09/18/19 18:10:16 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:16 - dock status does not match
+09/18/19 18:10:16 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:16 - dock status does not match
+09/18/19 18:10:16 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:16 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:10:16 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:16 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:10:16 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+09/18/19 18:10:16 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:16 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:10:16 - window class matches (Chromium)
+09/18/19 18:10:16 - dock status matches
+09/18/19 18:10:16 - Checking window 0x00e00002 (class Polybar)
+09/18/19 18:10:16 - window id does not match
+09/18/19 18:10:16 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:10:16 - window id does not match
+09/18/19 18:10:16 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:16 - match made by window id (20971521)
+09/18/19 18:10:16 - dock status matches
+09/18/19 18:10:16 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:16 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:10:16 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:16 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:10:16 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:16 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:10:16 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:16 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:10:16 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:16 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:10:16 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:16 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:10:16 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:16 - Regular expression "vlc" does not match "Chromium"
+09/18/19 18:10:16 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+09/18/19 18:10:16 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+09/18/19 18:10:16 - workspace visible? fs = 0x56231f174270, ws = 0x56231f174270
+09/18/19 18:10:16 - workspace visible? fs = 0x56231f16c270, ws = 0x56231f16c270
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:10:16 - ClientMessage for window 0x01400001
+09/18/19 18:10:16 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+[954:954:0918/181016.995222:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[930:1152:0918/181016.995809:ERROR:object_proxy.cc(619)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[930:1152:0918/181016.995950:ERROR:object_proxy.cc(619)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[930:1152:0918/181016.996074:ERROR:object_proxy.cc(619)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+09/18/19 18:10:17 - _NET_WM_NAME changed to "百度一下，你就知道 - Chromium"
+09/18/19 18:10:17 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:17 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:10:17 - window class matches (Chromium)
+09/18/19 18:10:17 - dock status matches
+09/18/19 18:10:17 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:17 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:10:17 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:17 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:10:17 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:17 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:10:17 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:17 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:10:17 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:17 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:10:17 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:17 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:10:17 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:17 - Regular expression "vlc" does not match "Chromium"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+09/18/19 18:10:26 - Not a managed window, ignoring UnmapNotify event
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:10:29 - _NET_WM_NAME changed to "arch 网易云音乐_百度搜索 - Chromium"
+09/18/19 18:10:29 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:29 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:10:29 - window class matches (Chromium)
+09/18/19 18:10:29 - dock status matches
+09/18/19 18:10:29 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:29 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:10:29 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:29 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:10:29 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:29 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:10:29 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:29 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:10:29 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:29 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:10:29 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:29 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:10:29 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:29 - Regular expression "vlc" does not match "Chromium"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:10:38 - _NET_WM_NAME changed to "Untitled - Chromium"
+09/18/19 18:10:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:38 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:10:38 - window class matches (Chromium)
+09/18/19 18:10:38 - dock status matches
+09/18/19 18:10:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:38 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:10:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:38 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:10:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:38 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:10:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:38 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:10:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:38 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:10:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:38 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:10:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:38 - Regular expression "vlc" does not match "Chromium"
+09/18/19 18:10:38 - ClientMessage for window 0x01400001
+09/18/19 18:10:38 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:10:38 - _NET_WM_NAME changed to "https://www.baidu.com/link?url=EsWjVIkQ4kQzXkbbCH5guCR1ryS97JJVtjfs154DyUpO1l2V14VOPYPUgAaAtROGDbPgnuj-7DN5x6XY9avZbSEDhC6ZLlkjD9RAua4PGLK&wd=&eqid=dd7fc3b30012a2db000000045d820294 - Chromium"
+09/18/19 18:10:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:38 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:10:38 - window class matches (Chromium)
+09/18/19 18:10:38 - dock status matches
+09/18/19 18:10:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:38 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:10:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:38 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:10:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:38 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:10:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:38 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:10:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:38 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:10:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:38 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:10:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:38 - Regular expression "vlc" does not match "Chromium"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:10:39 - _NET_WM_NAME changed to "Archlinux如何安装网易云音乐-百度经验 - Chromium"
+09/18/19 18:10:39 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:39 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:10:39 - window class matches (Chromium)
+09/18/19 18:10:39 - dock status matches
+09/18/19 18:10:39 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:39 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:10:39 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:39 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:10:39 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:39 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:10:39 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:39 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:10:39 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:39 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:10:39 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:39 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:10:39 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:39 - Regular expression "vlc" does not match "Chromium"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+[1:18:0918/181040.447060:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+[1:18:0918/181040.447170:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+[1:1:0918/181040.661014:ERROR:webrtc_sdp.cc(420)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1:1:0918/181040.661473:ERROR:webrtc_sdp.cc(420)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1:1:0918/181040.661599:ERROR:webrtc_sdp.cc(420)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1:1:0918/181040.661773:ERROR:webrtc_sdp.cc(420)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1:1:0918/181040.661924:ERROR:rtc_peer_connection_handler.cc(2355)] Failed to create native session description. Type: offer SDP: v=0
+o=- 6651316883026013342 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic: WMS
+m=application 9 UDP/TLS/RTP/SAVPF 119
+c=IN IP4 0.0.0.0
+b=AS:30
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:dYCe
+a=ice-pwd:j+pgT5qsyBUoPJ1GBZP94Gcw
+a=ice-options:trickle
+a=fingerprint:sha-256 B7:1D:C4:F3:7B:72:4D:F1:09:6C:4D:53:62:CD:DA:AB:8D:95:7A:FE:92:D7:2D:8F:73:C9:82:A6:81:9C:74:3F
+a=setup:actpass
+a=mid:0
+a=sendrecv
+a=msid: 
+a=rtcp-mux
+a=rtpmap:119 google-data/90000
+a=ssrc:2460615557 cname:61znwSP2JIbq+hPH
+a=ssrc:2460615557 msid:- 
+a=ssrc:2460615557 mslabel:-
+a=ssrc:2460615557 label:
+
+[1:1:0918/181040.661993:ERROR:rtc_peer_connection_handler.cc(1237)] Failed to parse SessionDescription. a=msid:  Missing track ID in msid attribute.
+[930:947:0918/181040.662546:ERROR:webrtc_event_log_manager_remote.cc(408)] Session ID already set.
+[1:1:0918/181040.662511:ERROR:webrtc_sdp.cc(420)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1:1:0918/181040.662700:ERROR:webrtc_sdp.cc(420)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1:1:0918/181040.662768:ERROR:webrtc_sdp.cc(420)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1:1:0918/181040.662892:ERROR:webrtc_sdp.cc(420)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1:1:0918/181040.662967:ERROR:rtc_peer_connection_handler.cc(2355)] Failed to create native session description. Type: offer SDP: v=0
+o=- 6651316883026013342 3 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 1
+a=msid-semantic: WMS
+m=application 9 UDP/TLS/RTP/SAVPF 119
+c=IN IP4 0.0.0.0
+b=AS:30
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:UsrQ
+a=ice-pwd:KGAn0tJLDO/hVbSfXCUMb7uU
+a=ice-options:trickle
+a=fingerprint:sha-256 B7:1D:C4:F3:7B:72:4D:F1:09:6C:4D:53:62:CD:DA:AB:8D:95:7A:FE:92:D7:2D:8F:73:C9:82:A6:81:9C:74:3F
+a=setup:actpass
+a=mid:1
+a=sendrecv
+a=msid: 
+a=rtcp-mux
+a=rtpmap:119 google-data/90000
+a=ssrc:3558470666 cname:61znwSP2JIbq+hPH
+a=ssrc:3558470666 msid:- 
+a=ssrc:3558470666 mslabel:-
+a=ssrc:3558470666 label:
+
+[1:1:0918/181040.663001:ERROR:rtc_peer_connection_handler.cc(1237)] Failed to parse SessionDescription. a=msid:  Missing track ID in msid attribute.
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+09/18/19 18:10:47 - _NET_WM_NAME changed to "arch 网易云音乐_百度搜索 - Chromium"
+09/18/19 18:10:47 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:47 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:10:47 - window class matches (Chromium)
+09/18/19 18:10:47 - dock status matches
+09/18/19 18:10:47 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:47 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:10:47 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:47 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:10:47 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:47 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:10:47 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:47 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:10:47 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:47 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:10:47 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:47 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:10:47 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:10:47 - Regular expression "vlc" does not match "Chromium"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:11:09 - _NET_WM_NAME changed to "aur 网易云音乐_百度搜索 - Chromium"
+09/18/19 18:11:09 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:09 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:11:09 - window class matches (Chromium)
+09/18/19 18:11:09 - dock status matches
+09/18/19 18:11:09 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:09 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:11:09 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:09 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:11:09 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:09 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:11:09 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:09 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:11:09 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:09 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:11:09 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:09 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:11:09 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:09 - Regular expression "vlc" does not match "Chromium"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+09/18/19 18:11:14 - Not a managed window, ignoring UnmapNotify event
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+[954:954:0918/181115.726523:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:11:17 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:11:30 - ClientMessage for window 0x01400001
+09/18/19 18:11:30 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:11:35 - _NET_WM_NAME changed to "arch 声音_百度搜索 - Chromium"
+09/18/19 18:11:35 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:35 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:11:35 - window class matches (Chromium)
+09/18/19 18:11:35 - dock status matches
+09/18/19 18:11:35 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:35 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:11:35 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:35 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:11:35 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:35 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:11:35 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:35 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:11:35 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:35 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:11:35 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:35 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:11:35 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:35 - Regular expression "vlc" does not match "Chromium"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:11:38 - _NET_WM_NAME changed to "Untitled - Chromium"
+09/18/19 18:11:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:38 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:11:38 - window class matches (Chromium)
+09/18/19 18:11:38 - dock status matches
+09/18/19 18:11:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:38 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:11:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:38 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:11:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:38 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:11:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:38 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:11:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:38 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:11:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:38 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:11:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:38 - Regular expression "vlc" does not match "Chromium"
+09/18/19 18:11:38 - ClientMessage for window 0x01400001
+09/18/19 18:11:38 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:11:38 - _NET_WM_NAME changed to "https://www.baidu.com/link?url=76OM5W6LcXNO40k2H7oyxQZ4Ug0g1GIH0jh_h4ijgmiZDSMxPu_m7bkapuS3-nnS&wd=&eqid=934337ed00128d63000000045d8202d6 - Chromium"
+09/18/19 18:11:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:38 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:11:38 - window class matches (Chromium)
+09/18/19 18:11:38 - dock status matches
+09/18/19 18:11:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:38 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:11:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:38 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:11:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:38 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:11:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:38 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:11:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:38 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:11:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:38 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:11:38 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:38 - Regular expression "vlc" does not match "Chromium"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:11:39 - _NET_WM_NAME changed to "archlinux 声音设置要点 - 简书 - Chromium"
+09/18/19 18:11:39 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:39 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:11:39 - window class matches (Chromium)
+09/18/19 18:11:39 - dock status matches
+09/18/19 18:11:39 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:39 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:11:39 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:39 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:11:39 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:39 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:11:39 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:39 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:11:39 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:39 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:11:39 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:39 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:11:39 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:11:39 - Regular expression "vlc" does not match "Chromium"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:13:02 - startup id = i3/rofi/578-11-mypc_TIME354116
+09/18/19 18:13:02 - executing: rofi -show run
+09/18/19 18:13:02 - Not a managed window, ignoring UnmapNotify event
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:13:06 - _NET_WM_NAME changed to "arch 声音_百度搜索 - Chromium"
+09/18/19 18:13:06 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:06 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:13:06 - window class matches (Chromium)
+09/18/19 18:13:06 - dock status matches
+09/18/19 18:13:06 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:06 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:13:06 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:06 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:13:06 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:06 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:13:06 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:06 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:13:06 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:06 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:13:06 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:06 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:13:06 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:06 - Regular expression "vlc" does not match "Chromium"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:13:06 - Not a managed window, ignoring UnmapNotify event
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:13:11 - _NET_WM_NAME changed to "yaourt_百度搜索 - Chromium"
+09/18/19 18:13:11 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:11 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:13:11 - window class matches (Chromium)
+09/18/19 18:13:11 - dock status matches
+09/18/19 18:13:11 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:11 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:13:11 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:11 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:13:11 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:11 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:13:11 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:11 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:13:11 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:11 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:13:11 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:11 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:13:11 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:11 - Regular expression "vlc" does not match "Chromium"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:13:13 - _NET_WM_NAME changed to "Untitled - Chromium"
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:13:13 - window class matches (Chromium)
+09/18/19 18:13:13 - dock status matches
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "vlc" does not match "Chromium"
+09/18/19 18:13:13 - ClientMessage for window 0x01400001
+09/18/19 18:13:13 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:13:13 - _NET_WM_NAME changed to "https://www.baidu.com/link?url=a9JRsbs92GpV6-aFAGLxpUTWq9qRX5TZRhsdmCKsX6sNRIbDo4klxa1ccFmDIZUP&wd=&eqid=c4009712001db9fc000000045d820336 - Chromium"
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:13:13 - window class matches (Chromium)
+09/18/19 18:13:13 - dock status matches
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "vlc" does not match "Chromium"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+09/18/19 18:13:13 - _NET_WM_NAME changed to "Yaourt 已死！在 Arch 上使用这些替代品 - 简书 - Chromium"
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:13:13 - window class matches (Chromium)
+09/18/19 18:13:13 - dock status matches
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:13:13 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:13 - Regular expression "vlc" does not match "Chromium"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:13:53 - _NET_WM_NAME changed to "archlinux 声音设置要点 - 简书 - Chromium"
+09/18/19 18:13:53 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:53 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:13:53 - window class matches (Chromium)
+09/18/19 18:13:53 - dock status matches
+09/18/19 18:13:53 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:53 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:13:53 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:53 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:13:53 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:53 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:13:53 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:53 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:13:53 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:53 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:13:53 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:53 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:13:53 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:53 - Regular expression "vlc" does not match "Chromium"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:13:53 - Not a managed window, ignoring UnmapNotify event
+polybar|error: module/mpd: Connection refused
+09/18/19 18:13:54 - _NET_WM_NAME changed to "New Tab - Chromium"
+09/18/19 18:13:54 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:54 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:13:54 - window class matches (Chromium)
+09/18/19 18:13:54 - dock status matches
+09/18/19 18:13:54 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:54 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:13:54 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:54 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:13:54 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:54 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:13:54 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:54 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:13:54 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:54 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:13:54 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:54 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:13:54 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:13:54 - Regular expression "vlc" does not match "Chromium"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+[954:954:0918/181401.231607:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:14:02 - Not a managed window, ignoring UnmapNotify event
+09/18/19 18:14:02 - Not a managed window, ignoring UnmapNotify event
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:14:17 - _NET_WM_NAME changed to "Yaourt 已死！在 Arch 上使用这些替代品 - 简书 - Chromium"
+09/18/19 18:14:17 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:17 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:14:17 - window class matches (Chromium)
+09/18/19 18:14:17 - dock status matches
+09/18/19 18:14:17 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:17 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:14:17 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:17 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:14:17 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:17 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:14:17 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:17 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:14:17 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:17 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:14:17 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:17 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:14:17 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:17 - Regular expression "vlc" does not match "Chromium"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:14:18 - Not a managed window, ignoring UnmapNotify event
+[954:954:0918/181418.915125:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+09/18/19 18:14:22 - Not a managed window, ignoring UnmapNotify event
+09/18/19 18:14:22 - _NET_WM_NAME changed to "Untitled - Chromium"
+09/18/19 18:14:22 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:22 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:14:22 - window class matches (Chromium)
+09/18/19 18:14:22 - dock status matches
+09/18/19 18:14:22 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:22 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:14:22 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:22 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:14:22 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:22 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:14:22 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:22 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:14:22 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:22 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:14:22 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:22 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:14:22 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:22 - Regular expression "vlc" does not match "Chromium"
+09/18/19 18:14:22 - ClientMessage for window 0x01400001
+09/18/19 18:14:22 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:14:22 - _NET_WM_NAME changed to "Settings - Chromium"
+09/18/19 18:14:22 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:22 - Regular expression "^.*" matches "Chromium"
+09/18/19 18:14:22 - window class matches (Chromium)
+09/18/19 18:14:22 - dock status matches
+09/18/19 18:14:22 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:22 - Regular expression "pop-up" does not match "browser"
+09/18/19 18:14:22 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:22 - Regular expression "task_dialog" does not match "browser"
+09/18/19 18:14:22 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:22 - Regular expression "netease-cloud-music" does not match "Chromium"
+09/18/19 18:14:22 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:22 - Regular expression "VirtualBox Manager" does not match "Chromium"
+09/18/19 18:14:22 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:22 - Regular expression "wechat" does not match "Chromium"
+09/18/19 18:14:22 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:22 - Regular expression "vokoscreen" does not match "Chromium"
+09/18/19 18:14:22 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:22 - Regular expression "vlc" does not match "Chromium"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:14:32 - startup id = i3/i3-sensible-terminal/578-12-mypc_TIME443941
+09/18/19 18:14:32 - executing: i3-sensible-terminal
+09/18/19 18:14:32 - Not a managed window, ignoring UnmapNotify event
+09/18/19 18:14:32 - WM_CLASS changed to urxvt (instance), URxvt (class)
+09/18/19 18:14:32 - WM_NAME changed to "Rxvt"
+09/18/19 18:14:32 - Using legacy window title. Note that in order to get Unicode window titles in i3, the application has to set _NET_WM_NAME (UTF-8)
+09/18/19 18:14:32 - _NET_WM_NAME changed to "Rxvt"
+09/18/19 18:14:32 - WM_HINTS.input changed to "1"
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - dock status does not match
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - dock status does not match
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - dock status does not match
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - dock status does not match
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - Regular expression "netease-cloud-music" does not match "URxvt"
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - Regular expression "wechat" does not match "URxvt"
+09/18/19 18:14:32 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - Regular expression "^.*" matches "URxvt"
+09/18/19 18:14:32 - window class matches (URxvt)
+09/18/19 18:14:32 - dock status matches
+09/18/19 18:14:32 - Checking window 0x00e00002 (class Polybar)
+09/18/19 18:14:32 - window id does not match
+09/18/19 18:14:32 - Checking window 0x00c0000a (class URxvt)
+09/18/19 18:14:32 - window id does not match
+09/18/19 18:14:32 - Checking window 0x01400001 (class Chromium)
+09/18/19 18:14:32 - window id does not match
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - match made by window id (27262986)
+09/18/19 18:14:32 - dock status matches
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - Regular expression "netease-cloud-music" does not match "URxvt"
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - Regular expression "VirtualBox Manager" does not match "URxvt"
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - Regular expression "wechat" does not match "URxvt"
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - Regular expression "vokoscreen" does not match "URxvt"
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - Regular expression "vlc" does not match "URxvt"
+09/18/19 18:14:32 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+09/18/19 18:14:32 - workspace visible? fs = 0x56231f173590, ws = 0x56231f173590
+09/18/19 18:14:32 - workspace visible? fs = 0x56231f174270, ws = 0x56231f174270
+09/18/19 18:14:32 - workspace visible? fs = 0x56231f16c270, ws = 0x56231f16c270
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+09/18/19 18:14:32 - _NET_WM_NAME changed to "liwis@mypc:~"
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - Regular expression "^.*" matches "URxvt"
+09/18/19 18:14:32 - window class matches (URxvt)
+09/18/19 18:14:32 - dock status matches
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - Regular expression "netease-cloud-music" does not match "URxvt"
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - Regular expression "VirtualBox Manager" does not match "URxvt"
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - Regular expression "wechat" does not match "URxvt"
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - Regular expression "vokoscreen" does not match "URxvt"
+09/18/19 18:14:32 - Checking window 0x01a0000a (class URxvt)
+09/18/19 18:14:32 - Regular expression "vlc" does not match "URxvt"
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|error: module/mpd: Connection refused
+polybar|warn:  Dropping unmatched character  (U+e04f)
+polybar|warn:  Dropping unmatched character  (U+e1da)
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|warn:  Termination signal received, shutting down...
+polybar|error: module/i3: Failed to reconnect socket (reason: Unexpected EOF while reading header)
+[930:930:0918/181439.014793:ERROR:zygote_communication_linux.cc(276)] Failed to send GetTerminationStatus message to zygote
+[930:930:0918/181439.015240:ERROR:zygote_communication_linux.cc(276)] Failed to send GetTerminationStatus message to zygote
+[930:930:0918/181439.018663:ERROR:zygote_communication_linux.cc(276)] Failed to send GetTerminationStatus message to zygote

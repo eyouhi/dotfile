@@ -1,0 +1,6 @@
+[Added Associations]
+image/jpeg=gimp.desktop;
+text/html=chromium.desktop;org.gnome.Epiphany.desktop;org.gnome.Builder.desktop;
+
+[Default Applications]
+x-scheme-handler/postman=Postman.desktop

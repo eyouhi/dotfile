@@ -1,0 +1,219 @@
+{
+	"info": {
+		"relation": {
+			"group": 0,
+			"priority": 1
+		},
+		"category": {
+			"hosts": [
+				".edu",
+				".idv"
+			],
+			"schemes": [
+				"ftps",
+				"magnet"
+			],
+			"file-exts": [
+				"torrent",
+				"metalink"
+			],
+			"active-limit": 3,
+			"finished-limit": 300,
+			"recycled-limit": 300
+		},
+		"common": {
+			"name": "New 0",
+			"folder": "\/home\/liwis",
+			"connect-timeout": 15,
+			"transmit-timeout": 30,
+			"retry-delay": 6,
+			"retry-limit": 99,
+			"retry-count": 0,
+			"max-connections": 1,
+			"max-upload-speed": 0,
+			"max-download-speed": 0,
+			"timestamp": 1
+		}
+	},
+	"children": [
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 154236138,
+					"total": 154236138,
+					"elapsed": 773,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1574139204,
+					"completed-time": 1574870009,
+					"messages": [
+						{
+							"string": "可续传",
+							"type": 2,
+							"time": 1574869237
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "VirtualBox-6.0.14.tar.bz2",
+					"uri": "https:\/\/download.virtualbox.org\/virtualbox\/6.0.14\/VirtualBox-6.0.14.tar.bz2",
+					"file": "VirtualBox-6.0.14.tar.bz2",
+					"folder": "\/home\/liwis",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/liwis\/VirtualBox-6.0.14.tar.bz2",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 5334568960,
+					"total": 5334568960,
+					"elapsed": 3854,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1574132093,
+					"completed-time": 1574135947,
+					"messages": [
+						{
+							"string": "可续传",
+							"type": 2,
+							"time": 1574132094
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Win10_1909_Chinese(Traditional)_x64.iso",
+					"uri": "https:\/\/software-download.microsoft.com\/pr\/Win10_1909_Chinese(Traditional)_x64.iso?t=c954f9e2-fbea-4884-bf57-c96d0b2f3d5b&e=1574218426&h=23fd0356287ef292edb8ec950d4b1adc",
+					"file": "Win10_1909_Chinese(Traditional)_x64.iso",
+					"folder": "\/home\/liwis",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/liwis\/Win10_1909_Chinese(Traditional)_x64.iso",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 75932340,
+					"total": 75932340,
+					"elapsed": 2550,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1570629643,
+					"completed-time": 1570632907,
+					"messages": [
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "mqttfx-1.7.0-64bit.deb",
+					"uri": "http:\/\/www.jensd.de\/apps\/mqttfx\/1.7.0\/mqttfx-1.7.0-64bit.deb",
+					"file": "mqttfx-1.7.0-64bit.deb",
+					"folder": "\/home\/liwis",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 3,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/liwis\/mqttfx-1.7.0-64bit.deb",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		}
+	]
+}
+

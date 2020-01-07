@@ -1,0 +1,36 @@
+<monitors version="2">
+  <configuration>
+    <logicalmonitor>
+      <x>0</x>
+      <y>0</y>
+      <scale>1</scale>
+      <primary>yes</primary>
+      <monitor>
+        <monitorspec>
+          <connector>eDP-1</connector>
+          <vendor>BOE</vendor>
+          <product>0x07db</product>
+          <serial>0x00000000</serial>
+        </monitorspec>
+        <mode>
+          <width>1920</width>
+          <height>1080</height>
+          <rate>59.999500274658203</rate>
+        </mode>
+      </monitor>
+      <monitor>
+        <monitorspec>
+          <connector>HDMI-1</connector>
+          <vendor>LEN</vendor>
+          <product>LEN E2323swA</product>
+          <serial>05902E31N3654</serial>
+        </monitorspec>
+        <mode>
+          <width>1920</width>
+          <height>1080</height>
+          <rate>60.000495910644531</rate>
+        </mode>
+      </monitor>
+    </logicalmonitor>
+  </configuration>
+</monitors>
