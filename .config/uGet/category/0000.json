@@ -39,6 +39,79 @@
 		{
 			"info": {
 				"relation": {
+					"group": 33,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 114688,
+					"total": 44433799,
+					"elapsed": 263,
+					"uploaded": 0,
+					"percent": 0
+				},
+				"log": {
+					"added-time": 1578414921,
+					"completed-time": 0,
+					"messages": [
+						{
+							"string": "Server response code : 403",
+							"type": 3,
+							"time": 1578415185
+						},
+						{
+							"string": "不可续传",
+							"type": 2,
+							"time": 1578414950
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "e93ae580-c03d-11e9-80c6-2e3242d77df4",
+					"uri": "https:\/\/github-production-release-asset-2e65be.s3.amazonaws.com\/27927984\/e93ae580-c03d-11e9-80c6-2e3242d77df4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200107%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200107T163333Z&X-Amz-Expires=300&X-Amz-Signature=1ae3ee1b28c4732e4c4dddd6b273390f2377a834577c3b73de0738fcf17ecb5f&X-Amz-SignedHeaders=host&actor_id=47080137&response-content-disposition=attachment%3B%20filename%3Domnisharp.http-linux-x64.tar.gz&response-content-type=application%2Foctet-stream",
+					"file": "e93ae580-c03d-11e9-80c6-2e3242d77df4",
+					"folder": "\/home\/liwis",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 4,
+					"max-connections": 1,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/liwis\/e93ae580-c03d-11e9-80c6-2e3242d77df4",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/home\/liwis\/e93ae580-c03d-11e9-80c6-2e3242d77df4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"info": {
+				"relation": {
 					"group": 72,
 					"priority": 1
 				},

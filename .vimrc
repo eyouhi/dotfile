@@ -40,6 +40,8 @@ Plugin 'SirVer/ultisnips'
 
 Plugin 'fatih/vim-go'
 
+Plugin 'OmniSharp/omnisharp-vim'
+
 "每个插件都应该在这一行之前  
 call vundle#end()            " 这是必需的 
 filetype plugin indent on    " 这是必需的 

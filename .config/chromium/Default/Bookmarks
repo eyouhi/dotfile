@@ -1,5 +1,5 @@
 {
-   "checksum": "fd0a668e6442e69069f157a7e292ccc0",
+   "checksum": "f3c1de353e04a9b9247c33813444a597",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -100,9 +100,16 @@
             "name": "css居中div的几种常用方法 - Jess_喵 - 博客园",
             "type": "url",
             "url": "https://www.cnblogs.com/zhangwenjiajessy/p/6130658.html"
+         }, {
+            "date_added": "13222887939018297",
+            "guid": "f98c04cc-84d0-4d1a-80bd-22cf02dd3925",
+            "id": "33",
+            "name": "VIM插件之YouCompeleteMe - 简书",
+            "type": "url",
+            "url": "https://www.jianshu.com/p/9ca779dfe3f5"
          } ],
          "date_added": "13213417678413855",
-         "date_modified": "13222774115733232",
+         "date_modified": "13222887939018297",
          "guid": "00000000-0000-4000-A000-000000000002",
          "id": "1",
          "name": "书签栏",
