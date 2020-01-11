@@ -1,4 +1,7 @@
 export GOPATH=$HOME/go
+#export GOROOT=
+export GOARCH=amd64
+export GOOS=linux
 
 export PATH=$PATH:$GOPATH/bin
 

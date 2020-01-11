@@ -262,7 +262,8 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "保存(&&S)"
+                        "label": "保存(&&S)",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAs",
@@ -334,7 +335,8 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "还原文件(&&V)"
+                        "label": "还原文件(&&V)",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
@@ -735,7 +737,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "上次编辑位置(&&L)"
+                        "label": "上次编辑位置(&&L)",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1569,7 +1572,7 @@
             "uiState": {
                 "mode": 0,
                 "x": 516,
-                "y": 64,
+                "y": 71,
                 "width": 1327,
                 "height": 1009
             }

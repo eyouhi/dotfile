@@ -104,8 +104,8 @@
 	},
 	"PluginMedia": {
 		"match_mode": 3,
-		"quality": 1,
-		"type": 0
+		"quality": 3,
+		"type": 1
 	},
 	"Completion": {
 		"remember": true,

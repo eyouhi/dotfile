@@ -194,7 +194,10 @@ let g:ycm_global_ycm_extra_conf = '~/.vim/.global_extra_conf.py'
 
 
 map md :MarkdownPreview
-map gf :GoFmt<CR>
+map fg :GoFmt<CR>
+"format go
+map fj :%!python -m json.tool<CR>
+"format json
 
 let g:ycm_filepath_blacklist = {
       \ 'html': 1,
