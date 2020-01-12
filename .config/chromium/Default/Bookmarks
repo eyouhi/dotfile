@@ -1,5 +1,5 @@
 {
-   "checksum": "f3c1de353e04a9b9247c33813444a597",
+   "checksum": "1b692a8c15a6623745e36094e19984f1",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -107,9 +107,23 @@
             "name": "VIM插件之YouCompeleteMe - 简书",
             "type": "url",
             "url": "https://www.jianshu.com/p/9ca779dfe3f5"
+         }, {
+            "date_added": "13223234630296449",
+            "guid": "2d8b86c8-39dd-4eb7-917a-06051940e954",
+            "id": "35",
+            "name": "Linux 下使用杀毒软件clamav扫描木马病毒_飞空静渡-CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/fjb2080/article/details/7928390"
+         }, {
+            "date_added": "13223244829578213",
+            "guid": "7719c15b-771b-4882-b6c8-c122273a0008",
+            "id": "37",
+            "name": "vim简单配置 - Mocuishle007 - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/mocuishle/p/7966236.html"
          } ],
          "date_added": "13213417678413855",
-         "date_modified": "13222887939018297",
+         "date_modified": "13223244829578213",
          "guid": "00000000-0000-4000-A000-000000000002",
          "id": "1",
          "name": "书签栏",

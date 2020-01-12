@@ -1,3 +1,4 @@
+"Vundle配置
 "===============================================
 set nocompatible              " 这是必需的 
 filetype off                  " 这是必需的 
@@ -58,7 +59,7 @@ filetype plugin indent on    " 这是必需的
 " Put your non-Plugin stuff after this line
 "
 "===============================================================================
-
+"markdown配置
 "===============================================================================
 " set to 1, nvim will open the preview window after entering the markdown buffer
 " default: 0
@@ -140,7 +141,8 @@ let g:mkdp_port = '7777'
 " ${name} will be replace with the file name
 let g:mkdp_page_title = '「${name}」'
 "===============================================================================
-
+"样式基本设置
+"========================================================================
 syntax on "代码高亮显示
 filetype indent plugin on
 
@@ -181,26 +183,53 @@ set autoread "打开自动监视
 set wildmenu
 set wildmode=longest:list,full "命令自动补全
 
+set ignorecase smartcase
+
+"set noswapfile
+"不设置交换文件
 
 "===================================
+"ycm与键位配置
+"========================================
 let g:ycm_use_clangd = 0
-let g:ycm_python_interpreter_path = '/usr/bin/python'
-let g:ycm_python_sys_path = ['/usr/bin/python',]
+let g:ycm_python_interpreter_path = '/usr/lib/python3.8'
+let g:ycm_python_sys_path = ['/usr/lib/python3.8',]
 let g:ycm_extra_conf_vim_data = [
   \  'g:ycm_python_interpreter_path',
   \  'g:ycm_python_sys_path'
   \]
 let g:ycm_global_ycm_extra_conf = '~/.vim/.global_extra_conf.py'
 
-
-map md :MarkdownPreview
-map fg :GoFmt<CR>
-"format go
-map fj :%!python -m json.tool<CR>
-"format json
-
 let g:ycm_filepath_blacklist = {
       \ 'html': 1,
       \ 'jsx': 1,
       \ 'xml': 1,
       \}
+
+let mapleader=" "
+
+autocmd FileType go noremap <LEADER>f :GoFmt<CR>
+"format go
+autocmd FileType json noremap <LEADER>f :%!python -m json.tool<CR>
+"format json
+
+autocmd FileType go noremap <LEADER>c :norm 0i// <CR>
+autocmd FileType go noremap <LEADER>C :norm 0f/diw<CR>
+
+autocmd FileType java noremap <LEADER>c :norm 0i// <CR>
+autocmd FileType java noremap <LEADER>C :norm 0f/diw<CR>
+
+autocmd FileType python noremap <LEADER>c :norm 0i## <CR>
+autocmd FileType python noremap <LEADER>C :norm 0f#diw<CR>
+
+autocmd FileType sh noremap <LEADER>c :norm 0i## <CR>
+autocmd FileType sh noremap <LEADER>C :norm 0f#diw<CR>
+"注释与取消注释
+
+autocmd FileType markdown noremap <LEADER>r :MarkdownPreview
+autocmd FileType go noremap <buffer> <LEADER>r :!clear&go run %  
+autocmd FileType python noremap <buffer> <LEADER>r :!clear&python %  
+autocmd FileType java noremap <buffer> <LEADER>r :!clear&java %  
+autocmd FileType sh noremap <buffer> <LEADER>r :!clear&bash %  
+"文件运行
+
