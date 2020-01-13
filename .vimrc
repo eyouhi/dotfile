@@ -31,8 +31,6 @@ Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 " Plugin 'ascenator/L9', {'name': 'newL9'}
 
 "Plugin 'godlygeek/tabular'
-"Plugin 'plasticboy/vim-markdown'
-"
 Plugin 'ycm-core/YouCompleteMe'
 
 Plugin 'iamcco/markdown-preview.nvim'
@@ -41,7 +39,12 @@ Plugin 'SirVer/ultisnips'
 
 Plugin 'fatih/vim-go'
 
-Plugin 'OmniSharp/omnisharp-vim'
+"Plugin 'OmniSharp/omnisharp-vim'
+
+Plugin 'mattn/emmet-vim'
+
+"Plugin 'Chiel92/vim-autoformat'
+
 
 "每个插件都应该在这一行之前  
 call vundle#end()            " 这是必需的 
@@ -170,6 +173,8 @@ set laststatus=2 "是否显示状态栏。0 表示不显示，1 表示只在多�
 set  ruler "在状态栏显示光标的当前位置（位于哪一行哪一列
 set showmatch "光标遇到圆括号、方括号、大括号时，自动高亮对应的另一个圆括号、方括号和大括号
 set hlsearch "搜索时，高亮显示匹配结果
+set incsearch
+
 set smartcase "搜索智能忽略大小写
 "set spell spelllang=en_us "英语拼写检查
 
@@ -208,10 +213,21 @@ let g:ycm_filepath_blacklist = {
 
 let mapleader=" "
 
+noremap <LEADER> <nop>
+
+noremap <LEADER>s :w!<CR>
+noremap <LEADER>q :q!<CR>
+noremap <LEADER>S :wq!<CR>
+
+autocmd FileType html,css EmmetInstall
+
 autocmd FileType go noremap <LEADER>f :GoFmt<CR>
 "format go
 autocmd FileType json noremap <LEADER>f :%!python -m json.tool<CR>
 "format json
+
+autocmd FileType html noremap <LEADER>f gg:%s/</\r</g<CR>gg:%s/>/>\r/g<CR>gg=G:g/^$/d<CR>
+"format html
 
 autocmd FileType go noremap <LEADER>c :norm 0i// <CR>
 autocmd FileType go noremap <LEADER>C :norm 0f/diw<CR>
@@ -227,9 +243,10 @@ autocmd FileType sh noremap <LEADER>C :norm 0f#diw<CR>
 "注释与取消注释
 
 autocmd FileType markdown noremap <LEADER>r :MarkdownPreview
-autocmd FileType go noremap <buffer> <LEADER>r :!clear&go run %  
+autocmd FileType go noremap <buffer> <LEADER>r :!clear&go run % 
 autocmd FileType python noremap <buffer> <LEADER>r :!clear&python %  
 autocmd FileType java noremap <buffer> <LEADER>r :!clear&java %  
 autocmd FileType sh noremap <buffer> <LEADER>r :!clear&bash %  
 "文件运行
 
+noremap <LEADER>/ :nohlsearch<CR>

@@ -12,3 +12,6 @@ export LANGUAGE=zh_CN:en_US
 
 
 export GOPROXY=https://goproxy.cn
+
+export sps=~/go/src/github.com/eyouhi/sps_b
+
