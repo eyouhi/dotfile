@@ -53,12 +53,8 @@ SAVEHIST=1000
 HISTFILE=~/.zsh_history
 
 
-export RUSTUP_DIST_SERVER="https://rsproxy.cn"
-export RUSTUP_UPDATE_ROOT="https://rsproxy.cn/rustup"
-
 . "$HOME/.cargo/env"
-
-export PATH=$PATH:/usr/local/go/bin
+. "$HOME/.config/go/env"
 
 
 # fnm
