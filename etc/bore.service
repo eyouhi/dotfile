@@ -1,0 +1,10 @@
+[Unit]
+Description=Bore Service
+After=network.target
+
+[Service]
+ExecStart=/home/liwis/.cargo/bin/bore local 22 --to 8.130.25.209 --port 5220
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

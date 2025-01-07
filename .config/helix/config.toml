@@ -1,0 +1,23 @@
+theme = "github_dark"
+
+[editor]
+true-color = true
+line-number = "relative"
+mouse = true
+end-of-line-diagnostics = "hint"
+
+
+[editor.search]
+smart-case = false
+
+[editor.whitespace]
+#render = "all"
+
+[editor.indent-guides]
+render = false
+character = "╎" # Some characters that work well: "▏", "┆", "┊", "⸽"
+skip-levels = 1
+
+[editor.inline-diagnostics]
+cursor-line = "error"
+

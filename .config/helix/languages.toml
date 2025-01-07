@@ -1,0 +1,4 @@
+[[language]]
+name = "rust"
+auto-format = true
+formatter = { command = "cargo", args = ["clippy", "--fix", "-Zunstable-options", "--allow-dirty", "--allow-staged"] }
