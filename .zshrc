@@ -51,6 +51,7 @@ SAVEHIST=1000
 HISTFILE=~/.zsh_history
 
 . "$HOME/.profile"
+. "$HOME/.env"
 
 # fnm
 eval "`fnm env`"
