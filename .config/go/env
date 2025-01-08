@@ -1,4 +1,4 @@
 PATH=$PATH:/usr/local/go/bin
 GO111MODULE=on
 GOPROXY=https://goproxy.cn,direct
-
+GOPATH=$GOPATH:/home/liwis/go
