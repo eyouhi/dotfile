@@ -15,8 +15,6 @@ mkcd() {
 setopt auto_cd
 setopt auto_pushd
 
-
-
 # General
 alias l='eza -F'
 alias ls='eza'
@@ -52,10 +50,7 @@ HISTSIZE=1000
 SAVEHIST=1000
 HISTFILE=~/.zsh_history
 
-
-. "$HOME/.cargo/env"
-. "$HOME/.config/go/env"
-
+. "$HOME/.profile"
 
 # fnm
 eval "`fnm env`"
@@ -68,3 +63,6 @@ eval "$(zoxide init zsh)"
 
 # inshellisense
 eval "$(is init zsh)"
+
+
+# see https://nvchad.com/docs/quickstart/install/
