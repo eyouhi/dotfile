@@ -43,3 +43,6 @@ python3 -m venv ~/.venv
 source ~/.venv/bin/activate
 pip3 install -U pgcli mycli poetry
 
+
+
+rm dev.zip  Justfile  README.md install.sh
