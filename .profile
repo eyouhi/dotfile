@@ -10,3 +10,7 @@ fi
 
 . "$HOME/.cargo/env"
 . "$HOME/.config/go/env"
+
+RUSTUP_DIST_SERVER="https://rsproxy.cn"
+RUSTUP_UPDATE_ROOT="https://rsproxy.cn/rustup"
+CARGO_BUILD_JOBS=4

@@ -45,10 +45,15 @@ alias vim='nvim'
 alias nv='nvim'
 alias grep='rg'
 
+alias py='. ~/.venv/bin/activate'
+alias dy='deactivate'
+
 # Keep 1000 lines of history within the shell and save it to ~/.zsh_history:
 HISTSIZE=1000
 SAVEHIST=1000
 HISTFILE=~/.zsh_history
+
+EDITOR=nvim
 
 . "$HOME/.profile"
 . "$HOME/.env"
@@ -63,7 +68,7 @@ eval "$(starship init zsh)"
 eval "$(zoxide init zsh)"
 
 # inshellisense
-eval "$(is init zsh)"
+#eval "$(is init zsh)"
 
 
 # see https://nvchad.com/docs/quickstart/install/

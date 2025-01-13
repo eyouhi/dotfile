@@ -1,12 +1,18 @@
 #!/usr/bin/zsh
 
-sudo apt update -y && sudo  apt install cmake build-essential  git curl wget zsh neovim -y
+sudo apt update -y && sudo  apt install cmake build-essential zip \
+     python3 python3-venv  libpq-dev  git curl wget zsh neovim -y
 
 # install go
 
 wget https://go.dev/dl/go1.23.4.linux-amd64.tar.gz
 
 sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.23.4.linux-amd64.tar.gz
+
+. ~/config/go/env
+
+go install github.com/go-delve/delve/cmd/dlv@latest
+
 
 # Install rust
 curl --proto '=https' --tlsv1.2 -sSf https://rsproxy.cn/rustup-init.sh | sh
@@ -28,6 +34,12 @@ cargo install --git https://github.com/bvaisvil/zenith.git
 # install node
 fnm use 22
 fnm default 22
-npm config set registry https://registry.npmmirror.com
-
 npm install -g @microsoft/inshellisense
+npm install -g typescript
+
+
+# install python
+python3 -m venv ~/.venv
+source ~/.venv/bin/activate
+pip3 install -U pgcli mycli poetry
+
