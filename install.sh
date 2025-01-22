@@ -36,7 +36,7 @@ fnm use 22
 fnm default 22
 npm install -g @microsoft/inshellisense
 npm install -g typescript
-
+npm install --global serve
 
 # install python
 python3 -m venv ~/.venv

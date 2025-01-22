@@ -21,6 +21,10 @@ alias ls='eza'
 alias ll='eza -hal'
 alias la='eza -A'
 
+alias cp='cp -i'
+alias mv='mv -i'
+alias rm='rm -i'
+
 # Git
 alias gs='git status'
 alias ga='git add'
