@@ -62,6 +62,9 @@ EDITOR=nvim
 . "$HOME/.profile"
 . "$HOME/.env"
 
+export RUSTUP_DIST_SERVER="https://rsproxy.cn"
+export RUSTUP_UPDATE_ROOT="https://rsproxy.cn/rustup"
+
 # fnm
 eval "`fnm env`"
 
