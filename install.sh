@@ -28,7 +28,7 @@ cargo install bat pay-respects bore-cli bottom cargo-machete \
     dioxus-cli eza fnm git-cliff git-delta ripgrep starship hd \
     procs sd tokei zellij just macchina skim broot zoxide  gping \
     trippy pik  hyperfine hurl tlrc cargo-deny cargo-nextest  \
-    cargo-autodd
+    cargo-autodd cargo-debugger
     
  
 cargo install --git https://github.com/bvaisvil/zenith.git
