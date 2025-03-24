@@ -28,7 +28,7 @@ cargo install bat pay-respects bore-cli bottom cargo-machete \
     dioxus-cli eza fnm git-cliff git-delta ripgrep starship hd \
     procs sd tokei zellij just macchina skim broot zoxide  gping \
     trippy pik  hyperfine hurl tlrc cargo-deny cargo-nextest  \
-    cargo-autodd cargo-debugger presenterm
+    cargo-autodd cargo-debugger presenterm du-dust
     
  
 cargo install --git https://github.com/bvaisvil/zenith.git
@@ -39,6 +39,7 @@ fnm default 22
 npm install -g @microsoft/inshellisense
 npm install -g typescript
 npm install --global serve
+
 
 # install python
 python3 -m venv ~/.venv
