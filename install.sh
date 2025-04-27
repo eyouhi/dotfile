@@ -24,8 +24,8 @@ rustup target add arm-unknown-linux-gnueabihf
 rustup target add aarch64-unknown-linux-gnu
 
 cargo install bat pay-respects bore-cli bottom cargo-machete \
-    eza  cargo-update cargo-zigbuild create-tauri-app \
-    dioxus-cli  fnm git-cliff git-delta ripgrep starship hd \
+    eza  cargo-update cargo-zigbuild create-tauri-app hex-patch\
+    dioxus-cli  fnm git-cliff git-delta ripgrep starship  \
     procs sd tokei zellij just macchina skim  zoxide  gping \
     trippy pik  hyperfine hurl tlrc cargo-deny cargo-nextest  \
     cargo-autodd cargo-debugger presenterm du-dust
