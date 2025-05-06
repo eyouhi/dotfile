@@ -25,12 +25,11 @@ rustup target add aarch64-unknown-linux-gnu
 
 cargo install bat pay-respects bore-cli bottom cargo-machete \
     eza  cargo-update cargo-zigbuild create-tauri-app hex-patch\
-    dioxus-cli  fnm git-cliff git-delta ripgrep starship  \
-    procs sd tokei zellij just macchina skim  zoxide  gping \
+    dioxus-cli  fnm git-cliff git-delta ripgrep starship t-rec \
+    procs sd tokei zellij just macchina skim  zoxide gping just-lsp \
     trippy pik  hyperfine hurl tlrc cargo-deny cargo-nextest  \
     cargo-autodd cargo-debugger presenterm du-dust codesnap-cli
-    
- 
+
 cargo install --git https://github.com/bvaisvil/zenith.git
 
 # install node
