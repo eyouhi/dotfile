@@ -1,7 +1,7 @@
 #!/usr/bin/zsh
 
 sudo apt update -y && sudo  apt install cmake build-essential zip \
-    python3 python3-venv  libpq-dev  git curl wget zsh neovim -y
+    python3 python3-venv  libpq-dev  git curl wget zsh neovim jq -y
 
 # install go
 
@@ -18,7 +18,7 @@ go install github.com/charmbracelet/crush@latest
 curl --proto '=https' --tlsv1.2 -sSf https://rsproxy.cn/rustup-init.sh | sh
 
 rustup update
-rustup component add  rust-analysis rust-src clippy
+rustup component add  rust-analyzer rust-src clippy
 rustup target add wasm32-unknown-unknown
 rustup target add arm-unknown-linux-gnueabihf 
 rustup target add aarch64-unknown-linux-gnu
